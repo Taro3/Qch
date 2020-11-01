@@ -1,0 +1,6 @@
+・全体的にModel/View型に変更する
+
+・Signal/Slotを活用する
+
+・
+
